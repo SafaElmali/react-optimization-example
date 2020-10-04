@@ -13,7 +13,7 @@
 ## How To Install ? 
 
 - Go to project folder and run ```npm install``` 
-- Type ```npm start``` to terminal to run the app in the development mode.
+- In your terminal, type ```npm start``` to run the app in the development mode.
 
 ## License
 
