@@ -1,6 +1,7 @@
 <div align="center">
   
 # React Optimization Example
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)<br>
 
 <i>This repo contains demo codes for my Medium article 👉  <a href="https://medium.com/@tsafaelmali/react-memoization-nedir-reactta-nas%C4%B1l-kullan%C4%B1l%C4%B1r-453035a3630f">Medium Article</a></i>
 
